@@ -1,0 +1,1 @@
+This is amiclon's first git project!
